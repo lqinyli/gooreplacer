@@ -15,7 +15,7 @@ gooreplacer 最初为解决国内无法访问 Google 资源（Ajax、API等）�
 
 对于只想重定向 Google 资源的同学，可以在`在线规则`处填上
 
-> https://raw.githubusercontent.com/jiacai2050/gooreplacer/master/gooreplacer.json
+> https://ghproxy.com/https://raw.githubusercontent.com/jiacai2050/gooreplacer/master/gooreplacer.json
 
 然后点击更新就好了，目前会重定向到[loli.net的代理](https://u.sb/css-cdn/)。
 如果想自定义规则，可参考 [guides.md](doc/guides.md)。实用小技巧：
